@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com.erudio.math;
 
 public class SimpleMath {
     public Double sum(Double firstNumber, Double secondNumber) {
@@ -14,6 +14,8 @@ public class SimpleMath {
     }
 
     public Double division(Double firstNumber, Double secondNumber) {
+        if (secondNumber.equals(0D))
+            throw new ArithmeticException("Impossible to divide by zero!");
         return firstNumber / secondNumber;
     }
 
