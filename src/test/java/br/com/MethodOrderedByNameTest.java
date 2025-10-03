@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com;
 
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;

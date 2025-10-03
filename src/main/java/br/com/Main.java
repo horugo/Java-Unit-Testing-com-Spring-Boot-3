@@ -1,4 +1,4 @@
-package br.com.erudio;
+package br.com;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

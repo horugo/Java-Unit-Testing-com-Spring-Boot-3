@@ -1,4 +1,4 @@
-package br.com.erudio.math;
+package br.com.math;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
