@@ -1,6 +1,6 @@
 package br.com.service;
 
-import model.Person;
+import br.com.model.Person;
 
 public interface IPersonService {
     Person createPerson(Person person);
